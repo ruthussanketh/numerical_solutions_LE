@@ -39,6 +39,6 @@ end
 %Output
 disp('@----------------------------------------------------------@')
 disp('Output [B][x]=[b]')
-disp('Upper riangular Matrix [B] =');disp(A)
+disp('Upper triangular Matrix [B] =');disp(A)
 disp('Matrix [b] =');disp(r)
 disp('solution of linear equations :');disp(x')
